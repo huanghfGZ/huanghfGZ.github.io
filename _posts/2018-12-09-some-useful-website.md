@@ -25,7 +25,7 @@ WEB							{#WEB}
 Nginx							{#Nginx}
 ------------------------------------
 
-Nginx官网[Nginx](www.nginx.org)主页
+Nginx官网[Nginx](http://nginx.org/)主页
 
 ```bash
 git clone https://github.com/luoyan35714/LessOrMore.git
