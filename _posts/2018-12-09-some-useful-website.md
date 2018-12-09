@@ -25,7 +25,15 @@ WEB							{#WEB}
 Nginx							{#Nginx}
 ------------------------------------
 
+
 Nginx官网[Nginx](http://nginx.org/)主页
+[Nginx官网](http://nginx.org/
+[nginx github](https://github.com/nginx/nginx)
+[Nginx中文文档](http://www.nginx.cn/doc/)
+taobao[Nginx文档](http://tengine.taobao.org/nginx_docs/cn/docs/)
+taobao[Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
+taobao[nginx平台初探](http://tengine.taobao.org/book/chapter_02.html)
+
 
 ```bash
 git clone https://github.com/luoyan35714/LessOrMore.git
