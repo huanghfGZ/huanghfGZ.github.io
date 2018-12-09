@@ -27,7 +27,7 @@ Nginx							{#Nginx}
 
 
 Nginx官网[Nginx](http://nginx.org/)主页
-[Nginx官网](http://nginx.org/
+[Nginx官网](http://nginx.org/)
 [nginx github](https://github.com/nginx/nginx)
 [Nginx中文文档](http://www.nginx.cn/doc/)
 taobao[Nginx文档](http://tengine.taobao.org/nginx_docs/cn/docs/)
