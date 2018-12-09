@@ -12,8 +12,11 @@ tag: 关注网站
 
 系统						{#System}
 ====================================
-+  [阿里云](https://www.aliyun.com/)公有云
-+  [51cto](https://www.51cto.com/)技术论坛
++ aaa[阿里云](https://www.aliyun.com/)公有云
++ bbb[51cto](https://www.51cto.com/)技术论坛
++ 感谢[Less官网](http://lesscss.cn/)于Less官网的样式直接拷贝过来的。只是重构了JS，并且加入了Jekyll语法而已。
++ 感谢[Github](https://github.com/)提供的代码维护和发布平台
++ 感谢[Jekyll](https://jekyllrb.com/)团队做出如此优秀的产品
 
 
 WEB							{#WEB}
