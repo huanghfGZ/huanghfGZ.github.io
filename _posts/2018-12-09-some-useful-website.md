@@ -126,6 +126,10 @@ MySQL							{#mysql}
 
 其他开源软件
 ApacheCN 中文开源组织[ApacheCN](http://www.apachecn.org/)主页
+Linux公社资源站[Linux公社资源站](https://linux.linuxidc.com/)主页
+用户名与密码都是www.linuxidc.com
+张宴的博客[张宴的博客](http://www.apmserv.com/)主页
+
 
 
 
