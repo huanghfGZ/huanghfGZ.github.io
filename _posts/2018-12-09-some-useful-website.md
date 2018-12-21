@@ -44,6 +44,9 @@ taobao[nginx平台初探](http://tengine.taobao.org/book/chapter_02.html)
 
 [nginx教程2](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
 
+[nginx教程3](https://www.jb51.net/list/list_226_1.htm)主页
+
+
 
 ```bash
 git clone https://github.com/luoyan35714/LessOrMore.git
