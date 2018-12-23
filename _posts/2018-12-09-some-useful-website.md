@@ -124,6 +124,19 @@ MySQL							{#mysql}
 
 
 
+安全					{#security}
+====================================
+
+安全资讯							{#aqzx}
+------------------------------------
+
+[安全资讯](https://www.linuxidc.com/Unix/)主页
+
+
+
+
+
+
 其他						{#other}
 ====================================
 
@@ -137,5 +150,5 @@ Linux公社资源站[Linux公社资源站](https://linux.linuxidc.com/)主页
 
 web文档[web文档](https://developer.mozilla.org/zh-CN/)主页
 
-
+[57分享](https://www.57fx.com/)
 
