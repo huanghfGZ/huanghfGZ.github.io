@@ -47,6 +47,16 @@ taobao[nginx平台初探](http://tengine.taobao.org/book/chapter_02.html)
 [nginx教程3](https://www.jb51.net/list/list_226_1.htm)主页
 
 
+openresty							{#openresty}
+------------------------------------
+
+openresty中文官网[openresty中文官网](http://openresty.org/cn/)
+
+Openresty最佳案例[Openresty最佳案例 ](https://blog.csdn.net/forezp/article/details/78616856)
+
+Openresty最佳案例 代码 [Openresty最佳案例 代码](https://github.com/forezp/openresty-best-samples)
+
+
 
 ```bash
 git clone https://github.com/luoyan35714/LessOrMore.git
