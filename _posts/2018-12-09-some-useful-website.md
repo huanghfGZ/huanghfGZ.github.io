@@ -117,6 +117,14 @@ MySQL							{#mysql}
 + micro8 -- https://micro8.gitbook.io/micro8/
 
 
+教育						{#jiaoyu}
+====================================
+
+## 考试
++ 软考 -- http://www.ruankao.org.cn/
++ 广东人事考试网 -- http://www.gdrsks.gov.cn/  
+
+
 
 其他						{#other}
 ====================================
