@@ -24,34 +24,35 @@ tag: 关注网站
 Docker							{#Docker}
 ------------------------------------
 
-[docker官网](http://www.docker.com)
+* [docker官网](http://www.docker.com) http://www.docker.com
 
-[docker官网github](https://github.com/docker/docker)
+* [docker官网github](https://github.com/docker/docker) https://github.com/docker/docker
 
-[Docker windows入门](https://docs.docker.com/windows/)
+* [Docker windows入门](https://docs.docker.com/windows/) https://docs.docker.com/windows/
 
-[Docker Linux 入门](https://docs.docker.com/linux/)
+* [Docker Linux 入门](https://docs.docker.com/linux/) https://docs.docker.com/linux/
 
-[Docker mac 入门](https://docs.docker.com/mac/)
+* [Docker mac 入门](https://docs.docker.com/mac/) https://docs.docker.com/mac/
 
-[Docker 用户指引](https://docs.docker.com/engine/userguide/)
+* [Docker 用户指引](https://docs.docker.com/engine/userguide/) https://docs.docker.com/engine/userguide/
 
-[Docker 官方博客](http://blog.docker.com/)
+* [Docker 官方博客](http://blog.docker.com/) http://blog.docker.com/
 
-[Docker Hub](https://hub.docker.com/)
+* [Docker Hub](https://hub.docker.com/) https://hub.docker.com/
 
-[Docker开源](https://www.docker.com/open-source)
+* [Docker开源](https://www.docker.com/open-source) https://www.docker.com/open-source
 
-[Docker中文网站](http://www.docker.org.cn)
+* [Docker中文网站](http://www.docker.org.cn) http://www.docker.org.cn
 
-[docker segmentfault](https://segmentfault.com/t/docker)
+* [docker segmentfault](https://segmentfault.com/t/docker) https://segmentfault.com/t/docker
 
-[docker openstack](https://wiki.openstack.org/wiki/Docker)
+* [docker openstack](https://wiki.openstack.org/wiki/Docker) https://wiki.openstack.org/wiki/Docker
 
-[docker archlinux](https://wiki.archlinux.org/index.php/Docker)
+* [docker archlinux](https://wiki.archlinux.org/index.php/Docker) https://wiki.archlinux.org/index.php/Docker
 
-[docker 阿里云](http://mirrors.aliyun.com/help/docker-engine)
+* [docker 阿里云](http://mirrors.aliyun.com/help/docker-engine) http://mirrors.aliyun.com/help/docker-engine
 
++ docker笔记 [docker笔记](http://blog.itpub.net/28916011/cid-186003/list-3/) http://blog.itpub.net/28916011/cid-186003/list-3/
 
 
 
@@ -62,37 +63,75 @@ Nginx							{#Nginx}
 ------------------------------------
 
 
-Nginx官网[Nginx](http://nginx.org/)主页
++ Nginx官网[Nginx](http://nginx.org/)主页 http://nginx.org/
 
-[Nginx官网](http://nginx.org/)
++ [Nginx官网](http://nginx.org/) http://nginx.org/
 
-[nginx github](https://github.com/nginx/nginx)
++ [nginx github](https://github.com/nginx/nginx) ttps://github.com/nginx/nginx
 
-[Nginx中文文档](http://www.nginx.cn/doc/)
++ [Nginx中文文档](http://www.nginx.cn/doc/) http://www.nginx.cn/doc/
 
-taobao[Nginx文档](http://tengine.taobao.org/nginx_docs/cn/docs/)
++ taobao[Nginx文档](http://tengine.taobao.org/nginx_docs/cn/docs/) http://tengine.taobao.org/nginx_docs/cn/docs/
 
-taobao[Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
++ taobao[Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) http://tengine.taobao.org/book/index.html
 
-taobao[nginx平台初探](http://tengine.taobao.org/book/chapter_02.html)
++ taobao[nginx平台初探](http://tengine.taobao.org/book/chapter_02.html) http://tengine.taobao.org/book/chapter_02.html
 
-[nginx教程1](https://www.yiibai.com/nginx/beginners_guide.html)
++ [nginx教程1](https://www.yiibai.com/nginx/beginners_guide.html) https://www.yiibai.com/nginx/beginners_guide.html
 
-[nginx教程2](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
++ [nginx教程2](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html) http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html
 
-[nginx教程3](https://www.jb51.net/list/list_226_1.htm)主页
++ [nginx教程3](https://www.jb51.net/list/list_226_1.htm)主页 https://www.jb51.net/list/list_226_1.htm
 
 
 openresty							{#openresty}
 ------------------------------------
 
-openresty中文官网[openresty中文官网](http://openresty.org/cn/)
++ openresty中文官网[openresty中文官网](http://openresty.org/cn/)
 
-Openresty最佳案例[Openresty最佳案例 ](https://blog.csdn.net/forezp/article/details/78616856)
++ Openresty最佳案例[Openresty最佳案例 ](https://blog.csdn.net/forezp/article/details/78616856)
 
-Openresty最佳案例 代码 [Openresty最佳案例 代码](https://github.com/forezp/openresty-best-samples)
++ Openresty最佳案例 代码 [Openresty最佳案例 代码](https://github.com/forezp/openresty-best-samples)
 
-docker笔记 [docker笔记](http://blog.itpub.net/28916011/cid-186003/list-3/)
+
+
+
+数据库					{#databases}
+====================================
+
+MySQL							{#mysql}
+------------------------------------
+打开浏览器并输入URL`http://localhost:4000/`,回车。
+
+
+
+安全					{#security}
+====================================
+
+安全资讯							{#aqzx}
+------------------------------------
+
+[安全资讯](https://www.linuxidc.com/Unix/)主页
+
+## 安全学习
++ micro8 -- https://micro8.gitbook.io/micro8/
+
+
+
+其他						{#other}
+====================================
+
+其他开源软件
+ApacheCN 中文开源组织[ApacheCN](http://www.apachecn.org/)主页
+
+Linux公社资源站[Linux公社资源站](https://linux.linuxidc.com/)主页
+用户名与密码都是www.linuxidc.com
+
+张宴的博客[张宴的博客](http://www.apmserv.com/)主页
+
+web文档[web文档](https://developer.mozilla.org/zh-CN/)主页
+
+[57分享](https://www.57fx.com/)
 
 
 
@@ -161,42 +200,4 @@ systemctl start httpd
 效果							{#result}
 ------------------------------------
 打开浏览器并输入URL`http://localhost:4000/`,回车。
-
-
-数据库					{#databases}
-====================================
-
-MySQL							{#mysql}
-------------------------------------
-打开浏览器并输入URL`http://localhost:4000/`,回车。
-
-
-
-安全					{#security}
-====================================
-
-安全资讯							{#aqzx}
-------------------------------------
-
-[安全资讯](https://www.linuxidc.com/Unix/)主页
-
-
-
-
-
-
-其他						{#other}
-====================================
-
-其他开源软件
-ApacheCN 中文开源组织[ApacheCN](http://www.apachecn.org/)主页
-
-Linux公社资源站[Linux公社资源站](https://linux.linuxidc.com/)主页
-用户名与密码都是www.linuxidc.com
-
-张宴的博客[张宴的博客](http://www.apmserv.com/)主页
-
-web文档[web文档](https://developer.mozilla.org/zh-CN/)主页
-
-[57分享](https://www.57fx.com/)
 
