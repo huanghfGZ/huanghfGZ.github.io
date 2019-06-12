@@ -19,6 +19,23 @@ tag: 关注网站
 + 感谢[Jekyll](https://jekyllrb.com/)团队做出如此优秀的产品
 + Packages Search[Packages Search](https://pkgs.org/)
 
+CentOS							{#CentOS}
+------------------------------------
+[历史版本下载](https://wiki.centos.org/Download)
+
+
+ubuntu							{#ubuntu}
+------------------------------------
+ubuntu
+
+debian							{#debian}
+------------------------------------
+debian
+
+freebsd							{#freebsd}
+------------------------------------
+freebsd
+
 
 
 
