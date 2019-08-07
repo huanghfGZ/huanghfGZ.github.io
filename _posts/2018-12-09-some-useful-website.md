@@ -138,6 +138,9 @@ MySQL							{#mysql}
 + micro8 -- https://micro8.gitbook.io/micro8/
 
 
+## 开源的主机入侵检测系统
++ 驭龙HIDS -- https://gitee.com/fengzihk/yulong-hids
+
 教育						{#jiaoyu}
 ====================================
 
