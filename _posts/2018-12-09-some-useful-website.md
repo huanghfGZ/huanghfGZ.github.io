@@ -138,6 +138,22 @@ MySQL							{#mysql}
 + micro8 -- https://micro8.gitbook.io/micro8/
 
 
+安全自查
+1. 数据备份.xls
+2. 防护软件部署.xls
+3. 终端安全扫描.xls
+4. 渗透测试.xls
+    5. 后门暗链检测.xls
+6. 专项安全巡检.xls
+7. 测试系统、停用系统检查.xls
+    8. 弱口令检查.xls
+    9. 高危端口检查.xls
+
+
+
+
+
+
 ## 开源的主机入侵检测系统
 + 驭龙HIDS -- https://gitee.com/fengzihk/yulong-hids
 
