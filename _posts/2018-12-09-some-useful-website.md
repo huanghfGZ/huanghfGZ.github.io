@@ -23,6 +23,9 @@ CentOS							{#CentOS}
 ------------------------------------
 [历史版本下载](https://wiki.centos.org/Download)
 
+CentOS Git server
+https://git.centos.org/
+
 
 ubuntu							{#ubuntu}
 ------------------------------------
@@ -36,7 +39,27 @@ freebsd							{#freebsd}
 ------------------------------------
 freebsd
 
+RHEL							{#RHEL}
+------------------------------------
+RHEL 8 
+https://developers.redhat.com/rhel8/
+下载地址：
+链接: https://pan.baidu.com/s/18QkivyqfOs_7k3zNw5-UvA 提取码: s6zq 
 
+RHEL 8 新功能和新特性介绍
+https://ywnz.com/linuxxw/4777.html
+
+dnf命令
+https://ywnz.com/linux/dnf/
+
+ftp://ftp.redhat.com
+
+官方文档，可下载pdf版
+https://access.redhat.com/documentation/en-us/
+https://access.redhat.com/documentation/zh-cn/red_hat_enterprise_linux/8/
+
+chmod 及+s 参数(临时以所有者权限执行)
+https://www.cnblogs.com/sjjg/p/4739910.html
 
 
 容器							{#Container}
@@ -137,6 +160,8 @@ MySQL							{#mysql}
 ## 安全学习
 + micro8 -- https://micro8.gitbook.io/micro8/
 
+渗透测试工具实战技巧合集
+https://www.freebuf.com/sectool/105524.html
 
 安全自查
 1. 数据备份.xls
