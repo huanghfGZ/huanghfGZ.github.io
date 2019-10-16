@@ -62,6 +62,11 @@ chmod 及+s 参数(临时以所有者权限执行)
 https://www.cnblogs.com/sjjg/p/4739910.html
 
 
+Windows							{#Windows}
+------------------------------------
++ frp内网穿透[frp] https://www.jianshu.com/p/00c79df1aaf0  
+
+
 容器							{#Container}
 ====================================
 
@@ -146,6 +151,11 @@ openresty							{#openresty}
 MySQL							{#mysql}
 ------------------------------------
 打开浏览器并输入URL`http://localhost:4000/`,回车。
+
++ Canal[Canal]  
+Canal的简单使用  
+canal可以用来监控数据库数据的变化，从而获得新增数据，或者修改的数据，用于实际工作中，比较实用，特此记录一下  
+https://www.cnblogs.com/java-spring/p/8930740.html  
 
 
 
