@@ -49,6 +49,9 @@ https://developers.redhat.com/rhel8/
 RHEL 8 新功能和新特性介绍
 https://ywnz.com/linuxxw/4777.html
 
+linux性能分析
+http://linuxperf.com/
+
 dnf命令
 https://ywnz.com/linux/dnf/
 
@@ -61,6 +64,8 @@ https://access.redhat.com/documentation/zh-cn/red_hat_enterprise_linux/8/
 chmod 及+s 参数(临时以所有者权限执行)
 https://www.cnblogs.com/sjjg/p/4739910.html
 
+linux内核文档
+https://www.kernel.org/doc/Documentation/
 
 Windows							{#Windows}
 ------------------------------------
