@@ -204,8 +204,8 @@ https://www.cnblogs.com/best/p/7474442.html
 
 ## 考试
 + 软考 -- http://www.ruankao.org.cn/
-+ 广东人事考试网 -- http://www.gdrsks.gov.cn/  
-
++ 广东人事考试网 -- http://rsks.gd.gov.cn/
++ 专业技术人员资格考试 -- http://rsks.gd.gov.cn/wsbs/zyjsryzgks
 
 
 其他						{#other}
