@@ -52,6 +52,9 @@ https://ywnz.com/linuxxw/4777.html
 linux性能分析
 http://linuxperf.com/
 
+linux思维导图
+https://blog.csdn.net/zl1zl2zl3/article/details/84503928
+
 dnf命令
 https://ywnz.com/linux/dnf/
 
